@@ -1,7 +1,7 @@
 # Sprint4_GeoTheChatbot
 Code for the creation of Geo, a simple PH Geography Chatbot using Telegram API.
 
-Our group (Team Julia) composed of myself (Nox), Gab, [Jelly](https://github.com/jeareyes17) and JB were tasked to create a chatbot to teach Philippine teenage students about Philippine geography using [spaCy](https://spacy.io/), a free open-source library on Natural Language Processing in Python.
+Our group (Team Julia) composed of myself (Nox), Gab, [Jelly](https://github.com/jeareyes17) and JB were tasked to create a chatbot to teach Philippine teenage high school students about Philippine geography using [spaCy](https://spacy.io/), a free open-source library on Natural Language Processing in Python.
 
 For our group's presentation on this Chatbot project, please refer to this [link](https://docs.google.com/presentation/d/1tF5_WQFpwb23qmKQDkpbiX5nPhEYkkclJQIjGlESbcI).
 
