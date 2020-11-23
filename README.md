@@ -7,7 +7,7 @@ For our group's presentation on this Chatbot project, please refer to this [link
 
 <b> NOTE: You will need to provide your own Telegram Bot API Token to get this to work. Please refer to this [link](https://core.telegram.org/bots) for more information regarding Telegram Bot API Tokens. 
  
-Please refer to line 363 in the notebook and revise the line of code to reflect your personal Telegram API Token: </b>
+Please refer to line 363 in the notebook and revise the line of code to reflect your personal Telegram Bot API Token: </b>
 ```python
 def main():
     updater = Updater("INSERT TELEGRAM API TOKEN HERE", use_context=True)
