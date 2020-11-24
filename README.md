@@ -25,5 +25,6 @@ def main():
 4. <b> /locateprovince </b> - Ask about a municipality and the Chatbot will return the corresponding province where it is located.
 5. <b> /sizeofprovince </b> - Ask about a province and the Chatbot will provide the land area (in square km and in square miles) of the province.
 
+![Screenshot](Geo_Chatbot_samplescreenshot.png)
 
 *Special thanks to [Eskwelabs](https://www.eskwelabs.com/) and our instructor [Bash Yumol](https://github.com/albertyumol)!*
