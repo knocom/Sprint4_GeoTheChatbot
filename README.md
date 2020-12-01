@@ -19,7 +19,7 @@ def main():
 2. [Customer NER model trained using spaCy](https://drive.google.com/file/d/1xAZ7Juz030esYQUiuAXpw5Z6fLFzUdTw/view) - This 40MB file contains the custom trained Named Entity Recognition Model for spaCy and it is used to teach the Chatbot about the specific Philippine provinces and municipalities so it can properly identify them as such. Download the file and place the folder in the same directory as the jupyter notebook with the complete code.
 
 # Chatbot Functionalities
-1. <b> /geninfo </b> - Ask about a province and the Chatbot will look it up on wikipedia and provide a few sentences to describe it.
+1. <b> /geninfo </b> - Ask about a province and the Chatbot will look it up on Wikipedia and provide a few sentences to describe it.
 2. <b> /findregion </b> - Ask about a province and the Chatbot will return the corresponding region where it is located.
 3. <b> /findcapital </b> - Ask about a province and the Chatbot will return the corresponding capital of the province.
 4. <b> /locateprovince </b> - Ask about a municipality and the Chatbot will return the corresponding province where it is located.
